@@ -1,0 +1,10 @@
+.day{
+    font-size: 10px;
+    text-align: center;
+    color: red;
+}
+
+.day :hover{
+    background-color: black;
+    color: aliceblue;
+}
