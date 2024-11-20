@@ -1,0 +1,63 @@
+div.gallery {
+  
+    margin:5px;
+    border: 2px solid royalblue;
+    float:left; 
+    width:200px;
+    background-color: rgb(152, 229, 229);
+    border-radius: 5px;
+  }
+  
+  div.gallery:hover {
+    border: 2px solid #e49605;
+  }
+
+  .gallery img {
+    width: 100%;
+    height: auto;
+  }
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  .colon{
+    margin-left:60px;
+    margin-top: 20px;
+  }
+  .navbar{
+  
+ 
+
+   background-color: rgb(115, 217, 202);
+   height: 40px;
+    width:10300px;
+    padding: 10px 10px 0px;
+  
+ 
+  
+.navlook{
+    text-decoration: none;
+    margin: 10px;
+    color: #191918;
+  }
+  .navlook:hover{
+    color: rgb(22, 110, 187);
+    border: 2px solid rgb(23, 150, 87);
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 5px;
+  }
+    
+
+  .image_tag{
+    width:95%;
+
+  }
+ 
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  
