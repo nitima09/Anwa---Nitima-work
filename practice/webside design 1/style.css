@@ -1,0 +1,32 @@
+
+
+
+.header {
+  background-color:rgb(195, 165, 165);
+  padding: 20px;
+  text-align: center;
+  color:blue;
+}
+.topnav{
+    overflow: hidden;
+    background-color: rgb(220, 176, 109);
+}
+.topnav a{
+    float: left;
+    display:block;
+    color:brown;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+.topnav a:hover{
+    background-color: blanchedalmond;
+    color: rgb(17, 69, 71);
+}
+
+.column{
+    float: left;
+    width:30%;
+    padding: 15px;
+}
+
